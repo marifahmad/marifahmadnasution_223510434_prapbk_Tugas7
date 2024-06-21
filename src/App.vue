@@ -1,6 +1,6 @@
 <template>
   <div>
-    <button @click="kuliah" class="add-kuliah">Kuliah</button>
+    <button @click="kuliah" class="add-kuliah">Tugas 1 - 7</button>
     <div id="app">
       <h1>Todo List</h1>
       <input v-model="newTodo" @keyup.enter="addNewTodo" placeholder="Add a new task" class="input" />
