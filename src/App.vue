@@ -56,7 +56,7 @@ export default {
     ]);
     const optionLinks = reactive([
       'https://ahmad-projectcv.netlify.app',
-      '/FreeTugas',
+      'https://marifahmadn-223510434-lab-t2freetugas.netlify.app',
       'https://marifahmad.netlify.app',
       'https://marifahmad-223510434-prapbk.netlify.app',
       'https://marifahmad-223510434-ppbk-t5-landingp.netlify.app',
